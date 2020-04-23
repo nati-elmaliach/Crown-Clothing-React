@@ -3,13 +3,13 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: "AIzaSyDlBXgXwjVSpagJKjqfSF24UdX4mzAiDEg",
+  apiKey: "YOUR API KEY HERE",
   authDomain: "crown-db-bda75.firebaseapp.com",
   databaseURL: "https://crown-db-bda75.firebaseio.com",
   projectId: "crown-db-bda75",
   storageBucket: "crown-db-bda75.appspot.com",
   messagingSenderId: "270233105967",
-  appId: "1:270233105967:web:225696118badfddf"
+  appId: "YOUR APP ID HERE"
 };
 
 firebase.initializeApp(config);
